@@ -14,7 +14,6 @@
 		8464286C2DF51B7B00C78519 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8464286B2DF51B7B00C78519 /* Persistence.swift */; };
 		8464286F2DF51B7B00C78519 /* MindScribe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8464286D2DF51B7B00C78519 /* MindScribe.xcdatamodeld */; };
 		84FDD6FD2DF6418300752737 /* Models in Resources */ = {isa = PBXBuildFile; fileRef = 84FDD6FC2DF6418300752737 /* Models */; };
-		84FDD7022DF6419000752737 /* Resources in Resources */ = {isa = PBXBuildFile; fileRef = 84FDD6FE2DF6419000752737 /* Resources */; };
 		84FDD7032DF6419000752737 /* Utilities in Resources */ = {isa = PBXBuildFile; fileRef = 84FDD6FF2DF6419000752737 /* Utilities */; };
 		84FDD7042DF6419000752737 /* Views in Resources */ = {isa = PBXBuildFile; fileRef = 84FDD7002DF6419000752737 /* Views */; };
 		84FDD7052DF6419000752737 /* ViewModels in Resources */ = {isa = PBXBuildFile; fileRef = 84FDD7012DF6419000752737 /* ViewModels */; };
@@ -29,7 +28,6 @@
 		8464286B2DF51B7B00C78519 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		8464286E2DF51B7B00C78519 /* MindScribe.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MindScribe.xcdatamodel; sourceTree = "<group>"; };
 		84FDD6FC2DF6418300752737 /* Models */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Models; sourceTree = "<group>"; };
-		84FDD6FE2DF6419000752737 /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
 		84FDD6FF2DF6419000752737 /* Utilities */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Utilities; sourceTree = "<group>"; };
 		84FDD7002DF6419000752737 /* Views */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Views; sourceTree = "<group>"; };
 		84FDD7012DF6419000752737 /* ViewModels */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ViewModels; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 		846428612DF51B7700C78519 /* MindScribe */ = {
 			isa = PBXGroup;
 			children = (
-				84FDD6FE2DF6419000752737 /* Resources */,
 				84FDD6FF2DF6419000752737 /* Utilities */,
 				84FDD7012DF6419000752737 /* ViewModels */,
 				84FDD7002DF6419000752737 /* Views */,
@@ -146,7 +143,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84FDD7022DF6419000752737 /* Resources in Resources */,
 				84FDD6FD2DF6418300752737 /* Models in Resources */,
 				8464286A2DF51B7B00C78519 /* Preview Assets.xcassets in Resources */,
 				84FDD7042DF6419000752737 /* Views in Resources */,
